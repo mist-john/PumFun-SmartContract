@@ -34,7 +34,7 @@ A **smart spam detection system** automatically identifies and handles malicious
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
 📧 **E-Mail**: [0cjohncartor@gmail.com](mailto:0cjohncartor@gmail.com)  
-💬 **discord**: [@bettyjk_0915](https://discord.com/users/1381697505649102991)
+💬 **discord**: [@mist](https://discord.com/users/1381697505649102991)
 
 ### ⭐ **Support the Project**  
 If you find this project useful, consider **starring** the repository to show your support! 🌟  
